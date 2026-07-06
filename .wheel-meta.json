@@ -1,0 +1,17 @@
+{
+  "wheel_id": 113,
+  "slug": "loanphone-150",
+  "project": "business-equipment-finance-l-150",
+  "parent_t1_ref": "loanphone-007",
+  "node_role": "buffer",
+  "money_target": "loanphone.com.au",
+  "primary_kw": "business equipment finance",
+  "intended_url": "https://business-equipment-finance-l-150.surge.sh/",
+  "links": [
+    {
+      "target_url": "https://business-equipment-finance-guide.pages.dev/",
+      "anchor": "business equipment finance",
+      "rel": "follow"
+    }
+  ]
+}
