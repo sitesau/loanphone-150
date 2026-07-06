@@ -1,16 +1,16 @@
 {
-  "wheel_id": 113,
+  "wheel_id": 114,
   "slug": "loanphone-150",
-  "project": "business-equipment-finance-l-150",
-  "parent_t1_ref": "loanphone-007",
+  "project": "agricultural-machinery-finance-l-150",
+  "parent_t1_ref": "loanphone-008",
   "node_role": "buffer",
   "money_target": "loanphone.com.au",
-  "primary_kw": "business equipment finance",
-  "intended_url": "https://business-equipment-finance-l-150.surge.sh/",
+  "primary_kw": "agricultural machinery finance",
+  "intended_url": "https://agricultural-machinery-finance-l-150.s3.ap-southeast-2.amazonaws.com/index.html",
   "links": [
     {
-      "target_url": "https://business-equipment-finance-guide.pages.dev/",
-      "anchor": "business equipment finance",
+      "target_url": "https://agricultural-machinery-finance-guide.netlify.app/",
+      "anchor": "agricultural machinery finance",
       "rel": "follow"
     }
   ]
